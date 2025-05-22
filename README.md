@@ -2,6 +2,11 @@
 
 A modern, user-friendly password generator built with vanilla web technologies. This project was developed as part of a virtual internship at Micro IT.
 
+## 🌐 Live Demo
+
+[Click here to view the live project](https://password-generator-project-for-micro-it.vercel.app/)
+
+
 ## Overview
 
 The Interactive Password Generator helps users create strong, secure passwords with customizable options. It features a sleek, modern interface with real-time password strength feedback and a history of generated passwords.
