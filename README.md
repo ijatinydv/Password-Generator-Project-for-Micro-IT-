@@ -33,10 +33,6 @@ The Interactive Password Generator helps users create strong, secure passwords w
   - Secure password generation algorithm
   - No external dependencies
 
-## Screenshots
-
-*[Screenshots will be added here]*
-
 ## Technologies Used
 
 - HTML5
@@ -98,8 +94,6 @@ This project was independently created as part of a virtual internship submissio
 
 ## License
 
-This project is unlicensed and free to use for educational purposes.
+This project is free to use for educational purposes.
 
 ---
-
-Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are welcome! 
